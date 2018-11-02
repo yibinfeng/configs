@@ -22,7 +22,7 @@
     <property name="MoveClass.OpenInEditor" value="true" />
     <property name="MoveClassWithTarget.OpenInEditor" value="false" />
     <property name="MoveFile.OpenInEditor" value="true" />
-    <property name="PLUGIN_FILTER" value="syn&#10;jacoco&#10;maven helper&#10;maven&#10;jrebel" />
+    <property name="PLUGIN_FILTER" value="setting&#10;syn&#10;jacoco&#10;maven helper&#10;maven" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
     <property name="SearchEveryWhereHistory" value="”&#10;JsonObject resp = null;         int falseCount = 0;         do {             logger.info(&quot;正在请求&quot; + subscribeUrl);             try {                 resp = gsonUtil.toJson(restUtil.postForString(subscribeUrl, requestJson.toString())).getAsJsonObject();                 if (resp.getAsJsonObject(&quot;para&quot;).get(&quot;&quot;))             } catch (Exception e) {                 logger.error(e.getMessage());                 Thread.sleep((long) (100 * Math.pow(2, ++falseCount)));             }             logger.info(resp);         } while (resp == null || resp.get(&quot;result&quot;).getAsInt() != 0);         tokenId = resp.getAsJsonObject(&quot;para&quot;).get(&quot;tokenid&quot;).getAsString();&#10;UC&#10;/**&#10;config" />
     <property name="SettingsSearchHistory" value="sub&#10;subver&#10;Template&#10;sync&#10;maven" />
@@ -54,7 +54,7 @@
     <property name="evlsprt3.182" value="12" />
     <property name="fieldPrivateMode" value="true" />
     <property name="file.chooser.recent.files" value="E:/Code/git/github/test/MVN/project/pom.xml&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/viid/src/main/java/kedacom/viid/pojo/domain/ga/origin/Person.java&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/viid/src/main/java/kedacom/viid/service/GalleryQueryService.java&#10;C:/Users/fengyibin/.IntelliJIdea2018.2/config/plugins&#10;E:/Document/.IntelliJIdea2018.1&#10;E:/test&#10;D:/Applications/Share/jdk1.8.0_171&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/epvl&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/common&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat&#10;D:/Applications/Share/jdk1.8.0_91/jre&#10;D:/Applications/Share/jdk1.8.0_91&#10;E:/Code/SVN2/P1000_eserver/eserver_v300/system_viewlib/service_third_perlib_switch/pom.xml&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/pom.xml&#10;E:/Code/eplat&#10;E:/Code/kedacom/VIID&#10;E:/Code/kedacom/springboot_es&#10;E:/Code/kedacom/cluster&#10;E:/Code/Workspace/IntelliJ/sysauth_service&#10;E:/Code/SVN2/P1000_eserver/evss_v100/sysauth_service/DeviceTree_FORMAL&#10;E:/Code/Workspace/IntelliJ&#10;E:/Code/SVN2/P1000_eserver/evss_v100/sysauth_service&#10;E:/Code/SVN2/P1000_eserver/evss_20170918/evserver&#10;E:/Code/SVN2/P1000_eserver/evss_v100/sysauth_service/DeviceTree_FORMAL/pom.xml&#10;E:/Code/kedacom/pichub&#10;E:/Code/kedacom/pom.xml&#10;E:/Code/test/maven&#10;E:/Code/test/maven/pom.xml&#10;E:/Code/pichub2/lib&#10;E:/Code/pichub2" />
-    <property name="file.gist.reindex.count" value="9236" />
+    <property name="file.gist.reindex.count" value="9240" />
     <property name="fileTypeChangedCounter" value="5" />
     <property name="filedNamePreFixStr" value="null" />
     <property name="generateComments" value="true" />
@@ -86,6 +86,7 @@
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Java" />
     <property name="reuseEntity" value="false" />
+    <property name="search.everywhere.max.popup.width" value="620" />
     <property name="selected.color.option.type" value="JAVA_COMMA" />
     <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
     <property name="splitGenerate" value="false" />
