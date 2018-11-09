@@ -43,7 +43,7 @@
     <location key="find.popup.0.0.1920.1080" x="639" y="115" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="669" y="142" />
     <location key="#service.mis_in_evsserver.0.0.1920.1080" x="616" y="155" />
-    <location key="#Browse_Repositories.0.0.1920.1080" x="698" y="290" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="238" y="300" />
     <location key="#HTTP_Proxy.0.0.1920.1080" x="149" y="275" />
     <location key="spring file set editor.0.0.1920.1080" x="521" y="167" />
     <location key="SpringBootCustomization.0.0.1920.1080" x="577" y="181" />
@@ -67,15 +67,16 @@
     <location key="#VIIDApplication.0.0.1920.1080" x="478" y="23" />
     <location key="FileDocumentManager.FileCacheConflict.0.0.1920.1080" x="0" y="0" />
     <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" x="640" y="253" />
+    <location key="findTextDialog.0.0.1920.1080" x="714" y="236" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="1316" height="117" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1580" height="305" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1580" height="305" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1580" height="305" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1580" height="305" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1580" height="305" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1580" height="305" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1580" height="305" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1580" height="305" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="428" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="428" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="428" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="428" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1580" height="304" />
     <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="279" />
     <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="279" />
     <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="279" />
@@ -91,13 +92,18 @@
     <size key="javadoc.popup.0.0.1920.1080" width="639" height="358" />
     <size key="new project wizard.0.0.1920.1080" width="884" height="596" />
     <size key="find.popup.0.0.1920.1080" width="858" height="668" />
-    <size key="GridCell.Tab.0.left.-1920.0.1920.1080" width="1876" height="504" />
-    <size key="GridCell.Tab.0.center.-1920.0.1920.1080" width="1876" height="504" />
-    <size key="GridCell.Tab.0.right.-1920.0.1920.1080" width="1876" height="504" />
-    <size key="GridCell.Tab.0.bottom.-1920.0.1920.1080" width="1876" height="504" />
+    <size key="GridCell.Tab.0.left.-1920.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.0.center.-1920.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.0.right.-1920.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.0.bottom.-1920.0.1920.1080" width="1580" height="304" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.-1920.0.1920.1080" width="1092" height="784" />
     <size key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" width="896" height="272" />
     <size key="#Scopes.0.0.1920.1080" width="416" height="423" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="850" height="493" />
+    <size key="findTextDialog.0.0.1920.1080" width="491" height="651" />
+    <size key="GridCell.Tab.1.left.-1920.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.1.center.-1920.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.1.right.-1920.0.1920.1080" width="1580" height="304" />
+    <size key="GridCell.Tab.1.bottom.-1920.0.1920.1080" width="1580" height="304" />
   </component>
 </application>
