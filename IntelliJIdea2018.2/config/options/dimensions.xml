@@ -8,7 +8,7 @@
     <location key="ProcessPopupWindow.0.0.1920.1080" x="411" y="857" />
     <location key="new project wizard.0.0.1920.1080" x="509" y="203" />
     <location key="#Project_Structure.0.0.1920.1080" x="321" y="68" />
-    <location key="SettingsEditor.0.0.1920.1080" x="92" y="243" />
+    <location key="SettingsEditor.0.0.1920.1080" x="172" y="157" />
     <location key="#Tomcat_Server.0.0.1920.1080" x="740" y="401" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="503" y="101" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="704" y="344" />
@@ -68,6 +68,8 @@
     <location key="FileDocumentManager.FileCacheConflict.0.0.1920.1080" x="0" y="0" />
     <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" x="640" y="253" />
     <location key="findTextDialog.0.0.1920.1080" x="714" y="236" />
+    <location key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard.0.0.1920.1080" x="363" y="259" />
+    <location key="AddEditExclusionDialog.0.0.1920.1080" x="579" y="359" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="1316" height="117" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="428" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="428" />

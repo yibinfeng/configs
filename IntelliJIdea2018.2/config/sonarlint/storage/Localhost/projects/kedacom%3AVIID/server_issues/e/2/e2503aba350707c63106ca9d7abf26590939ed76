@@ -1,0 +1,11 @@
+Ú
+9src/main/java/kedacom/viid/manager/PicFeatureManager.javakedacom:VIIDsquid"S1068(2'Remove this unused "log" private field.:MAJORROPENZ d4e452889f402fbdf47332391a773416h¨ƒÀ¤ê,r
+CODE_SMELLzAWakkEdf0PP09ByymLFgú
+9src/main/java/kedacom/viid/manager/PicFeatureManager.javakedacom:VIIDsquid"S00112(02FDefine and throw a dedicated exception instead of using a generic one.:MAJORROPENZ 387d9b2457b897635ea101f7dfd8d047h¨ƒÀ¤ê,r
+CODE_SMELLzAWakkEdf0PP09ByymLFhú
+9src/main/java/kedacom/viid/manager/PicFeatureManager.javakedacom:VIIDsquid"S00112(&2FDefine and throw a dedicated exception instead of using a generic one.:MAJORROPENZ 2635759a8959f9b59a530846f156cc0dh¨ƒÀ¤ê,r
+CODE_SMELLzAWakkEdf0PP09ByymLFi†
+9src/main/java/kedacom/viid/manager/PicFeatureManager.javakedacom:VIIDsquid"S00116(62RRename this field "PicPath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.:MINORROPENZ fb17c707da78df0d3dc1e4c1f6ec9298h¨ƒÀ¤ê,r
+CODE_SMELLzAWakkEdf0PP09ByymLFjŠ
+9src/main/java/kedacom/viid/manager/PicFeatureManager.javakedacom:VIIDsquid"S00116(72VRename this field "FeatureType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.:MINORROPENZ 4556833aad36f965562357c5658596f7h¨ƒÀ¤ê,r
+CODE_SMELLzAWakkEdf0PP09ByymLFk
