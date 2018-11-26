@@ -1,0 +1,28 @@
+<templateSet group="Feng">
+  <template name="li" value="log.info(&quot;$msg$&quot;);" description="log.info()" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="av" value="@Value(&quot;$arg1${$arg2$}&quot;)" description="@Value(&quot;&quot;)" toReformat="false" toShortenFQNames="true">
+    <variable name="arg1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="le" value="log.error(&quot;$msg$&quot;);" description="log.error()" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="at" value="@Test&#10;public void test$No$() {&#10;    $TestCase$&#10;}" description="@Test" toReformat="false" toShortenFQNames="true">
+    <variable name="No" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TestCase" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

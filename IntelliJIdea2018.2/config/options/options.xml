@@ -8,14 +8,14 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.CurrentTab" value="Code" />
-    <property name="FileTemplates.SelectedTemplate" value="Arquillian Deployment Method" />
+    <property name="FileTemplates.SelectedTemplate" value="Mobile I18N" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.10863661" />
     <property name="INSPECTION_FILTER_HISTORY" value="camel" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="KEYMAP" value="impl" />
     <property name="LiveContextsPanel[0]" value="0.12944984" />
     <property name="MavenHelper.lastRadioButton" value="list" />
-    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritGroupId" value="false" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -24,8 +24,9 @@
     <property name="MoveFile.OpenInEditor" value="true" />
     <property name="PLUGIN_FILTER" value="sonar&#10;maven&#10;setting&#10;syn&#10;jacoco" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
-    <property name="SearchEveryWhereHistory" value="”&#10;JsonObject resp = null;         int falseCount = 0;         do {             logger.info(&quot;正在请求&quot; + subscribeUrl);             try {                 resp = gsonUtil.toJson(restUtil.postForString(subscribeUrl, requestJson.toString())).getAsJsonObject();                 if (resp.getAsJsonObject(&quot;para&quot;).get(&quot;&quot;))             } catch (Exception e) {                 logger.error(e.getMessage());                 Thread.sleep((long) (100 * Math.pow(2, ++falseCount)));             }             logger.info(resp);         } while (resp == null || resp.get(&quot;result&quot;).getAsInt() != 0);         tokenId = resp.getAsJsonObject(&quot;para&quot;).get(&quot;tokenid&quot;).getAsString();&#10;UC&#10;/**&#10;config" />
-    <property name="SettingsSearchHistory" value="pattern&#10;exc&#10;sonar&#10;ignore files&#10;line separator" />
+    <property name="SearchEveryWhereHistory" value="headers&#10;”&#10;JsonObject resp = null;         int falseCount = 0;         do {             logger.info(&quot;正在请求&quot; + subscribeUrl);             try {                 resp = gsonUtil.toJson(restUtil.postForString(subscribeUrl, requestJson.toString())).getAsJsonObject();                 if (resp.getAsJsonObject(&quot;para&quot;).get(&quot;&quot;))             } catch (Exception e) {                 logger.error(e.getMessage());                 Thread.sleep((long) (100 * Math.pow(2, ++falseCount)));             }             logger.info(resp);         } while (resp == null || resp.get(&quot;result&quot;).getAsInt() != 0);         tokenId = resp.getAsJsonObject(&quot;para&quot;).get(&quot;tokenid&quot;).getAsString();&#10;UC&#10;/**" />
+    <property name="SettingsSearchHistory" value="template&#10;pattern&#10;exc&#10;sonar&#10;ignore files" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="SplitFileEditor.Proportion" value="0.4811656" />
     <property name="SpringBeansModulesPanel[0]" value="0.10863661" />
     <property name="SpringBeansModulesPanel[1]" value="0.12195122" />
@@ -47,14 +48,14 @@
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
     <property name="eclipse.project.dir" value="E:\Code\Java_BSDemo\bsdemo" />
-    <property name="entityPackName" value="kedacom.viid.pojo.eplat.defs." />
+    <property name="entityPackName" value="kedacom.viid.pojo.eplat.epas." />
     <property name="errorCount" value="0" />
     <property name="evlsprt3.171" value="11" />
     <property name="evlsprt3.181" value="16" />
     <property name="evlsprt3.182" value="12" />
     <property name="fieldPrivateMode" value="true" />
     <property name="file.chooser.recent.files" value="E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/s3demo/lib&#10;E:/Code/git/github/java&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/viid/src/main/java/kedacom/viid/pojo&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/viid/src/main/java/kedacom/viid/pojo/henan/Person.java&#10;C:/Users/fengyibin/Desktop/Demo/s3demo/lib&#10;D:/Applications/Git/bin/git.exe&#10;E:/Code/git/github/test/MVN/project/pom.xml&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/viid/src/main/java/kedacom/viid/pojo/domain/ga/origin/Person.java&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/viid/src/main/java/kedacom/viid/service/GalleryQueryService.java&#10;C:/Users/fengyibin/.IntelliJIdea2018.2/config/plugins&#10;E:/Document/.IntelliJIdea2018.1&#10;E:/test&#10;D:/Applications/Share/jdk1.8.0_171&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/epvl&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/common&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat&#10;D:/Applications/Share/jdk1.8.0_91/jre&#10;D:/Applications/Share/jdk1.8.0_91&#10;E:/Code/SVN2/P1000_eserver/eserver_v300/system_viewlib/service_third_perlib_switch/pom.xml&#10;E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat/pom.xml&#10;E:/Code/eplat&#10;E:/Code/kedacom/VIID&#10;E:/Code/kedacom/springboot_es&#10;E:/Code/kedacom/cluster&#10;E:/Code/Workspace/IntelliJ/sysauth_service&#10;E:/Code/SVN2/P1000_eserver/evss_v100/sysauth_service/DeviceTree_FORMAL&#10;E:/Code/Workspace/IntelliJ&#10;E:/Code/SVN2/P1000_eserver/evss_v100/sysauth_service&#10;E:/Code/SVN2/P1000_eserver/evss_20170918/evserver&#10;E:/Code/SVN2/P1000_eserver/evss_v100/sysauth_service/DeviceTree_FORMAL/pom.xml" />
-    <property name="file.gist.reindex.count" value="9988" />
+    <property name="file.gist.reindex.count" value="10108" />
     <property name="fileTypeChangedCounter" value="18" />
     <property name="filedNamePreFixStr" value="null" />
     <property name="generateComments" value="true" />
