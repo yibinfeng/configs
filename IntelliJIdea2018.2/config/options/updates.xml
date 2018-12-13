@@ -12,12 +12,13 @@
       <item value="181.5540.7" />
       <item value="182.4505.22" />
       <item value="182.4892.20" />
+      <item value="182.5107.41" />
     </ignoredBuildNumbers>
     <knownExternalComponentSources>
       <item value="Android SDK" />
     </knownExternalComponentSources>
     <option name="LAST_BUILD_CHECKED" value="IU-182.4505.22" />
-    <option name="LAST_TIME_CHECKED" value="1543194441216" />
+    <option name="LAST_TIME_CHECKED" value="1544145283771" />
     <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
   </component>
 </application>

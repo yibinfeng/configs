@@ -2,10 +2,10 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="E:/Code/SVN2/P1000_eserver/eserver_v300/system_viewlib/service_third_perlib_switch" />
-        <option value="E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat" />
-        <option value="E:/Code/git/github/java" />
         <option value="E:/Code/Workspace/IntelliJ" />
+        <option value="E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat" />
+        <option value="E:/Code/SVN2/P1000_eserver/eserver_v300/system_viewlib/service_third_perlib_switch" />
+        <option value="E:/Code/git/github/java" />
         <option value="E:/Code/git/github/test/MVN/project" />
         <option value="E:/Code/kedacom" />
         <option value="E:/Code/SVN2/P1000_eserver/evss_20170918/evserver" />
@@ -14,10 +14,10 @@
     <option name="openPaths">
       <list>
         <option value="E:/Code/SVN2/P1000_eserver/evss_v100/evserver/eplat" />
-        <option value="E:/Code/SVN2/P1000_eserver/eserver_v300/system_viewlib/service_third_perlib_switch" />
+        <option value="E:/Code/Workspace/IntelliJ" />
       </list>
     </option>
-    <option name="lastPath" value="E:/Code/SVN2/P1000_eserver/eserver_v300/system_viewlib/service_third_perlib_switch" />
+    <option name="lastPath" value="E:/Code/Workspace/IntelliJ" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -71,8 +71,8 @@
               <option name="build" value="IU-182.4505.22" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543224431001" />
-              <option name="buildTimestamp" value="1537270925508" />
+              <option name="projectOpenTimestamp" value="1544606995828" />
+              <option name="buildTimestamp" value="1537270973745" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -93,8 +93,8 @@
               <option name="build" value="IU-182.4505.22" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1543224431001" />
-              <option name="buildTimestamp" value="1537270925508" />
+              <option name="projectOpenTimestamp" value="1544683132579" />
+              <option name="buildTimestamp" value="1537270948162" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -115,8 +115,8 @@
               <option name="build" value="IU-182.4505.22" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541056861977" />
-              <option name="buildTimestamp" value="1537270941102" />
+              <option name="projectOpenTimestamp" value="1544683132579" />
+              <option name="buildTimestamp" value="1537270948162" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -181,8 +181,8 @@
               <option name="build" value="IU-182.4505.22" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1542610634041" />
-              <option name="buildTimestamp" value="1537270963830" />
+              <option name="projectOpenTimestamp" value="1544174923333" />
+              <option name="buildTimestamp" value="1537270973625" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
