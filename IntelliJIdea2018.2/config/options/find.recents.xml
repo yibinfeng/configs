@@ -1,0 +1,17 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>has</find>
+      <find>NoticeService</find>
+      <find>EvisInvestigationServiceImpl</find>
+      <find>evisInvestigationService</find>
+      <find>evisInvestigationServiceConfig</find>
+      <find>DeviceID</find>
+      <find>addUserName</find>
+      <find>EntryClerk</find>
+      <find>update</find>
+      <find>updateProcState</find>
+      <find>MSG_AUTH_MODE_CERT_VALUE</find>
+    </findStrings>
+  </component>
+</application>
